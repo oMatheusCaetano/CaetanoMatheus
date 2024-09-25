@@ -4,32 +4,31 @@
 
 
 ### ❔ &nbsp;About Me
-- I am a Full-Stack developer, passionate about technology and with a desire to become the best developer i can be..
+🚀 Full Stack Developer with over 5 years of experience and passionate about creating high-quality solutions. Specialized in JavaScript and PHP, with skills in React.js, Next.js, React Native, Vue.js, Node.js, Laravel.
 
 
 
 ### 💻 &nbsp;Tech Stack
-<img style="margin-right: 5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img style="margin-right: 5px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin-right: 5px" align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img style="margin-right: 5px" align="left" alt="Boostrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img style="margin-right: 5px" align="left" alt="Tailwind" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgibExfdq77NHUVVWtspnz9jJIH1Bl5obOd4ceNplkZd6CceoCXJaw7nYeeyqTOCjZ35Y&usqp=CAU" />
 
-<img style="margin-right: 5px" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin-right: 5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="margin-right: 5px" align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img style="margin-right: 5px" align="left" alt="NestJS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvW76wVYM9XOrKF-DWh_AoQeeUyX0kIn0g&s" />
 <img style="margin-right: 5px" align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img style="margin-right: 5px" align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img style="margin-right: 5px" align="left" alt="NexJS" width="26px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" />
 
 <img style="margin-right: 5px" align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img style="margin-right: 5px" align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img style="margin-right: 5px" align="left" alt="Lumen" width="26px" src="https://img.stackshare.io/service/2820/lumen.png" />
 
 
 <img style="margin-right: 5px" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img style="margin-right: 5px" align="left" alt="Postgres" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 
 <img style="margin-right: 5px" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img style="margin-right: 5px" align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" />
 <img style="margin-right: 5px" align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
@@ -47,10 +46,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="http://devmatheuscaetano.com/"><img src="https://img.shields.io/badge/-http://devmatheuscaetano.com/-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/matheus-dos-santos-caetano"><img src="https://img.shields.io/badge/-Matheus%20Caetano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contato@devmatheuscaetano.com"><img src="https://img.shields.io/badge/
--contato@devmatheuscaetano.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/oomatheuscaetano/"><img src="https://img.shields.io/badge/-contato@devmatheuscaetano.com-rgb(212,43,140)?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://lnk.bio/MatheusCaetano">Checkout my links</a>
+
 
 
